@@ -1,0 +1,9 @@
+﻿  MyHack.c
+D:\VsProject\MyHack\MyHack.c(9,54): warning C4133: “函数”: 从“long (__cdecl *)(int,WPARAM,LPARAM)”到“HOOKPROC”的类型不兼容
+D:\VsProject\MyHack\MyHack.c(32,10): warning C4244: “return”: 从“LRESULT”转换到“long”，可能丢失数据
+D:\VsProject\MyHack\MyHack.c(35,10): warning C4244: “return”: 从“LRESULT”转换到“long”，可能丢失数据
+D:\VsProject\MyHack\MyHack.c(38,18): warning C4244: “函数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+D:\VsProject\MyHack\MyHack.c(44,9): warning C4244: “return”: 从“LRESULT”转换到“long”，可能丢失数据
+D:\VsProject\MyHack\MyHack.c(30,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+    正在创建库 D:\VsProject\MyHack\x64\Debug\MyHack.lib 和对象 D:\VsProject\MyHack\x64\Debug\MyHack.exp
+  MyHack.vcxproj -> D:\VsProject\MyHack\x64\Debug\MyHack.dll
